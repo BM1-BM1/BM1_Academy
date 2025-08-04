@@ -9,7 +9,7 @@ const certificates = {
   "BM1-2025-459281": {
     name: "AMR ABDELBASED",
     course: "Cybersecurity Fundamentals",
-    date: "July 10, 2025",
+    date: "August 1, 2025",
     image: "BM1-2025-459281.png"
   },
   "BM1-2025-000401": {
