@@ -12,11 +12,11 @@ const certificates = {
     date: "August 1, 2025",
     image: "BM1-2025-459281.png"
   },
-  "BM1-2025-000401": {
-    name: "Mohamed Abdullah",
-    course: "Introduction to Computer Networks",
+  "BM1-2025-436040": {
+    name: "Nourhan Mohamed Nasrat",
+    course: "Certificate in Computer Fundamentals",
     date: "June 22, 2025",
-    image: "certificates/BM1-2025-000401.png"
+    image: "BM1-2025-436040.png"
   }
 };
 
